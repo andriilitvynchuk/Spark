@@ -1,3 +1,3 @@
-# Machine learning and data preparating using Spark
+# Machine learning and data preparation using Spark
 
 Discovering beatiful framework by solving different tasks.
