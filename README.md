@@ -1,2 +1,3 @@
-# Spark
-5 problems, solved using Spark
+# Machine learning and data preparating using Spark
+
+Discovering beatiful framework by solving different tasks.
